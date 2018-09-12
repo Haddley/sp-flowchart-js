@@ -1,6 +1,6 @@
 ## sp-flowchart-js
 
-This is where you include your WebPart documentation.
+Makes flowchart.js features available to SharePoint users
 
 ### Building the code
 
