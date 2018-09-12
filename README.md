@@ -5,7 +5,7 @@ This is where you include your WebPart documentation.
 ### Building the code
 
 ```bash
-git clone the repo
+git clone https://github.com/Haddley/sp-flowchart-js.git
 npm i
 npm i -g gulp
 gulp
@@ -19,8 +19,13 @@ This package produces the following:
 
 ### Build options
 
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+gulp clean
+
+gulp test
+
+gulp serve
+
+gulp bundle
+
+gulp package-solution
+
